@@ -11,6 +11,12 @@
 
 ---
 
+### 📄 CV Attachment
+You can view/download my latest CV directly from GitHub:
+[![CV Badge](https://img.shields.io/badge/CV-Download_📄-brightgreen)](https://github.com/OGHaruki/OGHaruki/blob/main/cv.pdf)
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Backend**
@@ -45,11 +51,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 📄 CV Attachment
-You can view/download my latest CV directly from GitHub:
-[![CV Badge](https://img.shields.io/badge/CV-Download_📄-brightgreen)](https://github.com/OGHaruki/OGHaruki/blob/main/cv.pdf)
 
 ---
