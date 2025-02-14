@@ -1,7 +1,7 @@
 ## Hi there, I'm Adam 👋 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-jakubowski-76a671314)
-[![GitHub](https://img.shields.io/badge/GitHub-Adam-black?style=flat&logo=github)](https://github.com/OGHaruki)
+[![GitHub](https://img.shields.io/badge/GitHub-OGHaruki-black?style=flat&logo=github)](https://github.com/OGHaruki)
 
 ### 🚀 About Me
 - 🔭 Seeking summer internship in **Full-Stack Web Development**
