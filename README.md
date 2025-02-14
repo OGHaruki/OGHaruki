@@ -50,6 +50,6 @@
 
 ### 📄 CV Attachment
 You can view/download my latest CV directly from GitHub:
-[![CV Badge](https://img.shields.io/badge/CV-Download_📄-brightgreen)](https://github.com/your-username/your-username/blob/main/cv.pdf)
+[![CV Badge](https://img.shields.io/badge/CV-Download_📄-brightgreen)](https://github.com/OGHaruki/OGHaruki/blob/main/cv.pdf)
 
 ---
